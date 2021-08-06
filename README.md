@@ -5,7 +5,7 @@ You can see my project [Here](https://wkazisan.github.io/project-1.2/) or watch 
 
 ## project Preview
 
-![preview](images/preview.mp4)
+[preview](https://wkazisan.github.io/project-1.2/)
 
 ## Source Code
 
